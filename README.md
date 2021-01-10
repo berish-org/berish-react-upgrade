@@ -1,17 +1,17 @@
-# @berish/stateful
+# @berish/react-upgrade
 
-A powerful manager with a new look on working with states. Allows for easy and affordable handling of state using vanilla JS. Knows how to read changes and update data optimally, updates only specific changed data. Works both in memory and with various state storage adapters.
+Tool for upgrade ReactJS components so eazy
 
 ## Installation
 
 ```
-$ npm install @berish/stateful --save
+$ npm install @berish/react-upgrade --save
 ```
 
 or
 
 ```
-$ yarn add @berish/stateful
+$ yarn add @berish/react-upgrade
 ```
 
 **Supports typescript**
